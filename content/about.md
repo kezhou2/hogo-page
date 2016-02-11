@@ -6,6 +6,6 @@ url: /about/
 
 
 <p class="message">
-大家好，我叫 dengyun。
+大家好，我叫 登云。
 </p>
 
