@@ -12,7 +12,8 @@ import subprocess
 __author__ = 'coderzh'
 
 GIT_REPO = [
-    ['origin',  'gh-pages', 'git@github.com:kezhou2/kezhou2.github.io.git']
+    ['origin',  'gh-pages', 'git@github.com:coderzh/hugo-blog-deployed.git'],
+    ['gitcafe', 'gh-pages', 'git@gitcafe.com:coderzh/coderzh-hugo-blog.git'],
 ]
 
 DEPLOY_DIR = 'gh-pages'

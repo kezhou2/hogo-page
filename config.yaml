@@ -1,4 +1,4 @@
-title: "登云的博客"
+title: "Dengyun Blog"
 languageCode: "zh-CN"
 baseurl: "http://www.leidengyun.cn"
 theme: "hugo-rapid-theme"
@@ -21,14 +21,14 @@ params:
   CopyrightHTML: "Copyright &#xA9; 2016. All Rights Reserved."
   GitHubUser: "kezhou2"
   SidebarRecentLimit: 5
-  DateForm : "2016年02月11日"
-  Tagline: "记录点点滴滴"
-  Description: "如果你没有感觉到时间不够用时，你多半正在虚度光阴。"
-  Keywords: "独立博客,程序员,思考,读书笔记,技术分享"
+  DateForm : "2006年01月02日"
+  Tagline: "多思考、多实践"
+  Description: "随心的记录。"
+  Keywords: "独立博客,读书笔记,实践记录"
   Categories:
-    - "笔记"
-    - "实验"
-    - "感悟"
+    - "读书笔记"
+    - "实践记录"
+    - "思考感悟"
 menu:
   main:
       - Name: "归档"
@@ -42,7 +42,7 @@ menu:
         Weight: -100
         URL: "/about/"
 author:
-  name: "Dengyun"
+  name: "登云"
 
 images:
   - 480x
